@@ -4,7 +4,7 @@ import iconLuxury from "./assets/icon-luxury.svg"
 
 export default function App() {
   return (
-    <main>
+    <main className="border-2 border-orange min-h-svh bg-Off-white-bg py-20 px-6">
       <section>
 
         <div className="bg-Orange">
